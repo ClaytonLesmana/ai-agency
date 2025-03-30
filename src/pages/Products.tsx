@@ -5,7 +5,6 @@ import {
   CheckCircle,
   Shield,
   Layers,
-  Globe,
   Terminal,
   MessageSquare,
   LineChart,
